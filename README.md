@@ -59,7 +59,7 @@ solar-ai-system/
 
 ## Sample Output
 
-*(Add a screenshot of your dashboard here once deployed)*
+ ![Dashboard Screenshot](screenshot.png)
 
 ## Future Improvements
 
