@@ -59,7 +59,15 @@ solar-ai-system/
 
 ## Sample Output
 
- ![Dashboard Screenshot](screenshot.png)
+ ![Dashboard Screenshot](screenshot.png1)
+ ![Dashboard Screenshot](screenshot.png2)
+ ![Dashboard Screenshot](screenshot.png3)
+ ![Dashboard Screenshot](screenshot.png4)
+ ![Dashboard Screenshot](screenshot.png5)
+ ![Dashboard Screenshot](screenshot.png6)
+ ![Dashboard Screenshot](screenshot.png7)
+ ![Dashboard Screenshot](screenshot.png8)
+ ![Dashboard Screenshot](screenshot.png9)
 
 ## Future Improvements
 
