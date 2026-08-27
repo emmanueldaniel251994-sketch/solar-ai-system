@@ -2,6 +2,9 @@
 
 An AI-powered solar energy monitoring, prediction, and diagnostic dashboard built with Python.
 
+ ## 🚀 Live Demo
+[Try the live dashboard here](https://solar-ai-system-rnbn9vkk3eum3aaw5ai5de.streamlit.app)
+
 ## Features
 
 - **Solar Calculator** — computes system capacity, daily generation estimates, and battery backup time
